@@ -1,4 +1,4 @@
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/5778181f-9e21-4b5b-a1b7-2d0b1306e370" /># 💰 Fake Currency Detection using Machine Learning
+💰 Fake Currency Detection using Machine Learning
 
 ## 📌 Project Overview
 This project focuses on detecting fake bank currency using Machine Learning techniques. 
